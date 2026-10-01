@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Logged data (generated at runtime)
+logs/
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# STM32CubeIDE build output
+firmware/Debug/
+firmware/Release/
