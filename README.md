@@ -111,4 +111,4 @@ python -m pytest tests                         # unit tests
 
 ## Author
 
-TODO: your name - link
+Nguyen Huu Bach
